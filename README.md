@@ -114,4 +114,23 @@ Description: A fast-growing perennial herb with deeply lobed green leaves (silve
 ● Number of images per class: Minimum 250
 
 ## Model Evaluation
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.PNG)
 
+### Accuracy per Class
+![Accuracy per Class](accuracy_per_class.PNG)
+
+### Overall model accuracy
+![Overall model accuracy](1.PNG)
+
+## Model Testing
+![Test 1](model_testing/1.PNG)
+![Test 2](model_testing/2.PNG)
+![Test 3](model_testing/3.PNG)
+![Test 4](model_testing/4.PNG)
+![Test 5](model_testing/5.PNG)
+![Test 6](model_testing/6.PNG)
+![Test 7](model_testing/7.PNG)
+![Test 8](model_testing/8.PNG)
+![Test 9](model_testing/9.PNG)
+![Test 10](model_testing/10.PNG)
