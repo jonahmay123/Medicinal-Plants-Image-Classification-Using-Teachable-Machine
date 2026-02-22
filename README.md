@@ -106,3 +106,12 @@ Description: A bulb plant with strong-smelling cloves. Known for lowering blood 
 ![Hilbas](images/hilbas.jpg)
 Scientific Name: Artemisia vulgaris
 Description: A fast-growing perennial herb with deeply lobed green leaves (silvery underneath). It is aromatic and commonly found in fields and roadsides.
+
+## Model Training Details
+● Epochs: 100
+● Batch size: 16
+● Learning rate: 0.001
+● Number of images per class: Minimum 250
+
+## Model Evaluation
+
